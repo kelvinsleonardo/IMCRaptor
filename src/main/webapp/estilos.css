@@ -1,0 +1,17 @@
+body {
+    background: url(img/background.jpg) no-repeat center center fixed;
+  background-size: cover; /*Css padrão*/
+  -webkit-background-size: cover; /*Css safari e chrome*/
+  -moz-background-size: cover; /*Css firefox*/
+  -ms-background-size: cover; /*Css IE não use mer#^@%#*/
+  -o-background-size: cover; /*Css Opera*/
+}
+
+.teste{
+font-size: 12px;
+margin: 0px 0px 20px 0px;
+_margin: 0px 0px 20px 5px;
+}    
+.input{
+    background-color: #F2F18D
+}
